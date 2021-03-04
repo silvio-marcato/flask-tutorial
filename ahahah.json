@@ -1,0 +1,9 @@
+{
+    "serviceId": "CA",
+    "maxNumberUsers": 100,
+    "maxE2e": 20,
+    "lifetime": 120,
+    "placement": "EDGE",
+    "tenant": "POLITO"
+  }
+  
